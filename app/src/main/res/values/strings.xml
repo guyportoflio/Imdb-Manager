@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Manager</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="title">Title</string>
+    <string name="plot">plot</string>
+    <string name="delete">Delete</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit_movie">Edit Movie</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="close">Close</string>
+    <string name="delete_all">Delete All</string>
+    <string name="search">Search</string>
+
+</resources>
